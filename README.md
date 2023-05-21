@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>Next
+📄<br>Next.js
 </h1>
 
 ## 📚 Ebook

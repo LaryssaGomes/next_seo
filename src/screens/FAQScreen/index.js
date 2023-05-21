@@ -1,5 +1,6 @@
 import Footer from '../../components/patterns/Footer';
 import Link from '../../components/Link';
+import Head from 'next/head';
 import { theme } from '../../theme/theme';
 import { Box, Text } from '../../theme/components';
 

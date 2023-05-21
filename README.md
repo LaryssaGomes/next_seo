@@ -5,7 +5,7 @@
 ## 📚 Ebook
 
 > Este repositório é um projeto constrído com Next e foi usado algumas boas praticas de seo
-
+💻 Meu site:  https://next-seo-chi.vercel.app/ 
 
 <div align="center">
   <br/>
